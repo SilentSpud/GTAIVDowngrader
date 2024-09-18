@@ -1,0 +1,3 @@
+[submodule "ClonksCodingLib"]
+	path = ClonksCodingLib
+	url = https://github.com/SilentSpud/ClonksCodingLib.git
